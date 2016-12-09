@@ -50,6 +50,8 @@
   font-size: 1em !important;
   min-height: inherit !important;
   min-height: auto !important;
+  overflow-wrap: normal !important;
+  word-wrap: normal !important;
 }
 
 .syntaxhighlighter {
